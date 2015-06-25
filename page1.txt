@@ -1,1 +1,2 @@
 trois petit chat son vert.
+ajout d'une ligne pour réecrire le message de commit
